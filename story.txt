@@ -1,3 +1,29 @@
 Once upon a time there was a young man named octo who lived in the village hidden in the trees. He was an expert guide, he knew the complete layout of the forest. Whenever guests came to the village, his neighbors would always ask him to give them tours.
 One day a magician came to the village. He found there was something hidden in the forest, so he asked for octo to guide him to the forest. 
 Octo took the magician to the forest, and then decided to retire! Octo wanted to settle down.
+Octo now knew what he wanted. He wanted to be able to experience other things, in places other than the village. He wanted to travel the world!
+
+[33mcommit 8d64601ee6898fb66b94e0dfe6093941ec27fb3f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Luke Selberg <selberg@royal-25.cs.wisc.edu>
+Date:   Fri Mar 13 20:00:10 2020 -0500
+
+    La Fin
+
+[33mcommit d1cbfc8bf07fd49761e452b5e60b0342caaf9bce[m
+Author: Hai Lin <hlin@snares-06.cs.wisc.edu>
+Date:   Mon Mar 9 22:08:19 2020 -0500
+
+    Add second paragraph
+
+[33mcommit d3670840f89d8fa21f6e7c912f67e1a84f67afde[m
+Author: Luke Selberg <selberg@snares-06.cs.wisc.edu>
+Date:   Thu Feb 27 14:17:08 2020 -0600
+
+    first paragraph
+
+[33mcommit 75c666917f6a42e801f82351ca40337e2248f1bf[m
+Author: CaptainLuke <33555141+CaptainLuke@users.noreply.github.com>
+Date:   Thu Feb 27 14:07:05 2020 -0600
+
+    Initial commit
+
